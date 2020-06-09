@@ -1,5 +1,5 @@
 # Tweet Map
-I have tried visualize the most popular tweets by their location by searching for a hastag on a specific date or time interval. And the map generated is displayed on the web.
+I have tried visualize the most popular tweets by their location by searching for the most trending topic on a specific date or time interval. And the map generated is displayed on the web.
 Tools used-
   - Tweepy
   - Pandas
