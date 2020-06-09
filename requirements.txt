@@ -1,0 +1,9 @@
+dash
+plotly
+flask
+numpy
+pandas
+tweepy
+regex
+geopy
+folium
