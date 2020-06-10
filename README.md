@@ -4,7 +4,9 @@ Twitter has become a  very popular and  integral platform to discuss news and on
 
 I have tried to visualise tweets of a particular topic and date on a map of the world to get an idea as to how a topic trends in what   part of the world. This visualisation can help us determine how much an issue or any topic matters to a specific geograhical region.<br>
 
-For example - coronavirus is a issue that has grappled the entire  world. If we extract the tweets that have the hastag coronavirus of a particular date in may when the virus  is as its peak we get a visualization on the map and find that users from countries such as uk, Italy ,china ,us would have the maximum number of tweets as they were the most affected by it. We can also read the tweets by clicking on the markers that are plotted on the map. We can extract tweets for a region specific issue and visualising that over the specific region can help us understand the sentiment of users of that region and can become a tool towards resolving conflicts. 
+For example - coronavirus is a issue that has grappled the entire  world. If we extract the tweets that have the hastag coronavirus of a particular date in may when the virus  is as its peak we get a visualization on the map and find that users from countries such as uk, Italy ,china ,us would have the maximum number of tweets as they were the most affected by it. We can also read the tweets by clicking on the markers that are plotted on the map. We can extract tweets for a region specific issue and visualising that over the specific region can help us understand the sentiment of users of that region and can become a tool towards resolving conflicts. <br>
+
+We have used twitter api to stream tweets and a library folium to plot the tweets on a map.
 
 
 
